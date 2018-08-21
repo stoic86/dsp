@@ -58,7 +58,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `ls -d`: Displays only directories.  
+> > `ls-m`: Displays the names as a comma-separated list.  
+> > `ls-R`: Displays subdirectories as well.  
+> > `ls-1`: Displays each entry on a line.  
+> > `ls-q`: Displays all nonprinting characters as ?  
 
 ---
 
