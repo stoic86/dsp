@@ -70,8 +70,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > It builds an execution pipeline from standard input.
-> > Example : 
+> > It builds an execution pipeline from standard input.  
+> > Example :   
 > > find *.txt | xargs rm
 
  
