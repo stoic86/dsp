@@ -21,15 +21,15 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > 1) show current working directory path: **wpd**
-2) creating a directory: **mkdir**
-3) deleting a directory: **rmdir**
-4) creating a file: **touch**
-5) deleting a file: **rm**
-6) renaming a file: **mv file1 file2**
-7) listing hidden files: **ls -a**
-8) copying a file from one directory to another: **mv file directory**
-9) changing directory: **cd**
-10) showing the manual of the inputted command: **man**
+> > 2) creating a directory: **mkdir**
+> > 3) deleting a directory: **rmdir**
+> > 4) creating a file: **touch**
+> > 5) deleting a file: **rm**
+> > 6) renaming a file: **mv file1 file2**
+> > 7) listing hidden files: **ls -a**
+> > 8) copying a file from one directory to another: **mv file directory**
+> > 9) changing directory: **cd**
+> > 10) showing the manual of the inputted command: **man**
 
 ---
 
