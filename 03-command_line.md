@@ -49,7 +49,7 @@ What do the following commands do:
 > > `ls -l` : list long format  
 > > `ls -lh`: list long format with readable file size  
 > > `ls -lah`: list long format with readable file size including hidden files
-> > `ls -t` : sort by time & date 
+> > `ls -t` : sort by time & date
 > > `ls -Glp`: list long format, adds a / at the end of directories and in a long listing, don't print group names
 
 ---
